@@ -1,3 +1,4 @@
+/* all values used to insert are dummy values*/
 /*------------------------------------------Create database EMS--------------------------------------------*/
 create database EMS;
 /*--------------------------------------Create Service_Provider Table-------------------------------------*/
